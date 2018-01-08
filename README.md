@@ -1,7 +1,7 @@
- #TWITTER APP
- ##OVERVIEW-
+ # TWITTER APP
+ ## OVERVIEW-
 *This is a Twitter App which consist of the Home page and the Search Page.It's built using Reactjs and Material-ui.*
-##RUNNING THE APP LOCALLY-
+## RUNNING THE APP LOCALLY-
 ```
 git clone https://github.com/srijithsrk/twitterapp.git
 cd twitterapp
